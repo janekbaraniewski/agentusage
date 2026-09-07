@@ -1,6 +1,6 @@
 module github.com/janekbaraniewski/openusage
 
-go 1.25.4
+go 1.26.0
 
 require (
 	github.com/NimbleMarkets/ntcharts v0.5.1
@@ -9,11 +9,11 @@ require (
 	github.com/charmbracelet/lipgloss v1.1.0
 	github.com/charmbracelet/x/ansi v0.11.8
 	github.com/fsnotify/fsnotify v1.10.1
-	github.com/klauspost/compress v1.19.2
+	github.com/klauspost/compress v1.20.0
 	github.com/mattn/go-sqlite3 v1.14.50
 	github.com/samber/lo v1.53.0
 	github.com/spf13/cobra v1.10.2
-	golang.org/x/crypto v0.55.0
+	golang.org/x/crypto v0.56.0
 	golang.org/x/mod v0.40.0
 	golang.org/x/term v0.45.0
 	gopkg.in/yaml.v3 v3.0.1
